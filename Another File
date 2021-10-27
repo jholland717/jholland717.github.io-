@@ -1,9 +1,13 @@
 <html>
 <head>
 <title> Another Page </title>
+<meta name="author" contents="Jonathan Holland">
+<meta name="description" contents="A test bed website.>
+<meta name="keyword" contents="testing class assignment">
 </head>
 <body>
 <h1> Hey! This is another page </h1>
+<!-- this is how I tested comments --!>
 <a href="/"> Back to index </a>
 <iframe width="1174" height="660" src="https://www.youtube.com/embed/hHaerpBH_Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
