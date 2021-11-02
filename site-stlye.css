@@ -1,6 +1,10 @@
+body {
+}
 p {
   color: red;
-    tect-align: center;
+  text-align: center;
+  border: 2px solid black;
+      
 }
 
 a {
@@ -8,7 +12,11 @@ a {
 }
 
 #para1 {
+ text-indent: 1in;
+ word-spacing: 1in;
+ letter-spacing: 0.1in;
   color: green;
+  font-family: monospace;
 }
 
 /* this is my comment */
@@ -21,8 +29,5 @@ a {
 
 p.mylcass {
   text-decoration: underline;
-}
-
-* {
-  
+  border: none;
 }
