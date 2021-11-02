@@ -3,11 +3,12 @@
 <style>
 p {
 color: red;
+tect-align: center;
 }
 </style>
 </head>
 <body>
-<p>
+<p style="color:blue;">
 here's some text
 </p>
 </body>
