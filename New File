@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="stlyesheet" href="site-style.css">
 <style>
 p {
 color: red;
@@ -9,7 +10,10 @@ tect-align: center;
 </head>
 <body>
 <p style="color:blue;">
-here's some text
+here's some text.
+</p>
+<p>
+heres some more text.
 </p>
 </body>
 </htm>
