@@ -1,19 +1,16 @@
 <html>
 <head>
 <link rel="stlyesheet" href="site-style.css">
-<style>
-p {
-color: red;
-tect-align: center;
-}
-</style>
 </head>
 <body>
 <p style="color:blue;">
 here's some text.
 </p>
-<p>
+<p class="myyclass">
 heres some more text.
 </p>
+,div id="para1">
+  Para1 text.
+ </div>
 </body>
 </htm>
