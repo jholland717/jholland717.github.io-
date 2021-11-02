@@ -1,0 +1,15 @@
+p {
+  color: red;
+    tect-align: center;
+}
+
+div{
+  color: blue;
+}
+a {
+  color: purple;
+}
+
+.myclass {
+  text-align: right;
+}
