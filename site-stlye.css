@@ -3,13 +3,26 @@ p {
     tect-align: center;
 }
 
-div{
-  color: blue;
-}
 a {
   color: purple;
 }
 
+#para1 {
+  color: green;
+}
+
+/* this is my comment */
+/* My class text is on the right of the screen */
 .myclass {
+  color: white;
   text-align: right;
+  backround-color: rgb(125,0,150);
+}
+
+p.mylcass {
+  text-decoration: underline;
+}
+
+* {
+  
 }
