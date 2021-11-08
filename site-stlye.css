@@ -1,5 +1,6 @@
 /* Backround Color to top Nav */
 .topnav {
+  width: 100%;
   background-color: #808080;
   overflow: hidden;
 }
