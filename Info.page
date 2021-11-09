@@ -1,5 +1,11 @@
 <html>
-  <h2>
+ <div class="topnav">
+    <a class="active" href= "#home">Home</a>
+    <a class="aboutpage" href="jholland717.github.io-/About.html"> About</a>
+     <a class="Info" href ="jholland717.github.io-/Info.page"> Info</a>
+    <a class="Portfolio" href= "jholland717.github.io-/Portfolio.page"> Portfolio</a>
+  </div>
+ <h2>
   Information Page
   <h2>
 </html>
