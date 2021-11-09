@@ -20,6 +20,10 @@
   color: white;
 }
 
+.body {
+  backround-color: Red;
+}
+
 p {
   color: Blue;
   backround-color: Red
