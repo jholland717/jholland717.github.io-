@@ -19,14 +19,10 @@
   background-color: #ddd;
   color: white;
 }
-/* Color of Backround */
-body {
-  backround-color: light-blue;
-}
 
 p {
   color: Blue;
-  backround-color: light-blue
+  backround-color: Red
   text-align: Center;
 }
 
