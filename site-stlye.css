@@ -26,6 +26,13 @@ p {
   text-align: Center;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .header {
   padding: 30px;
   text-align: center;
